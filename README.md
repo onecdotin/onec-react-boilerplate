@@ -1,3 +1,5 @@
+<img src="/public/REACT BOILERPLATE.png">
+
 ## Installing node modules
 ### `npm i --save`
 
